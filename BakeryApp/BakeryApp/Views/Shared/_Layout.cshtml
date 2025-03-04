@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    <!-- Add the CSS bundle link -->
+    @Styles.Render("~/Content/css")  <!-- This will render both bootstrap-quartz.css and site.css -->
+
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <!-- Application Name -->
+            <a class="navbar-brand" href="#">Farhat's Bakery</a>
+
+            <!-- Navbar Toggle for Mobile View -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navbar Links -->
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav me-auto">
+                    <!-- Home Tab -->
+                    <li class="nav-item">
+                        <a class="nav-link active" href="@Url.Action("Index", "Home")">
+                            Home
+                            <span class="visually-hidden">(current)</span>
+                        </a>
+                    </li>
+
+                    <!-- Bakery Tab that links to BakeryItems (Index) page -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "BakeryItems")">Bakery</a>
+                    </li>
+
+                    <!-- Cart Tab -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Cart</a>
+                    </li>
+                </ul>
+
+                <!-- Search Form (optional) -->
+                <form class="d-flex">
+                    <input class="form-control me-sm-2" type="search" placeholder="Search">
+                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
