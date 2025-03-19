@@ -1,0 +1,57 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    height: 400px;
+}
+
+/* Center align navbar links in the collapsed menu */
+@media (max-width: 991.98px) {
+    .navbar-collapse {
+        text-align: center; /* Center the text */
+    }
+
+    .navbar-nav {
+        width: 100%; /* Ensure the nav takes full width */
+    }
+
+    .nav-item {
+        display: block; /* Ensure each item is on its own line */
+    }
+}
+
+/* Increase font size for navbar links */
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* Adjust this value as needed */
+}

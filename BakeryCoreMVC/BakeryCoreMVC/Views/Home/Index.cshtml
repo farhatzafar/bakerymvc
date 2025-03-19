@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="welcome-section" style="position: relative; height: 400px; background-image: url('@Url.Content("~/images/pexels-igor-ovsyannykov-56123-205961.jpg")'); background-size: cover; background-position: center;">
+    <div class="overlay-text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
+        <h1>Welcome to Farhat's Bakery!</h1>
+        <p>Check out our delicious baked goods</p>
+        <a href="@Url.Action("Index", "BakeryItems")" class="btn btn-primary">Explore Bakery</a>
+    </div>
+</div>
+
+<h2>About Farhat's Bakery</h2>
+<p>Farhat's Bakery is a charming and cozy bakery known for its freshly baked goods, from soft, buttery croissants to delicious cakes and artisan breads. With a focus on high-quality ingredients and traditional baking methods, Farhat's Bakery offers a variety of treats that bring warmth and comfort with every bite. Whether you're in the mood for a morning pastry or a custom cake for a special occasion, Farhat's Bakery combines passion, flavor, and a welcoming atmosphere, making it a beloved spot for locals and visitors alike.</p>

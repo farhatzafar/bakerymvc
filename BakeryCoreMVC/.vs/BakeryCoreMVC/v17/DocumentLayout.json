@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\views\\bakeryitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\views\\bakeryitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\controllers\\bakeryitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\controllers\\bakeryitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|c:\\users\\raana\\source\\repos\\bakerycoremvc\\bakerycoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC414BD-6366-4016-9BEB-7DDE244B6A8D}|BakeryCoreMVC\\BakeryCoreMVC.csproj|solutionrelative:bakerycoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BakeryCoreMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T18:55:35.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\appsettings.json",
+              "RelativeToolTip": "BakeryCoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T17:20:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BakeryCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:49:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\BakeryItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Views\\BakeryItems\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\BakeryItems\\Index.cshtml",
+              "RelativeToolTip": "BakeryCoreMVC\\Views\\BakeryItems\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:40:06.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BakeryCoreMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:22:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BakeryCoreMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:07:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Program.cs",
+              "RelativeToolTip": "BakeryCoreMVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:27:46.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BakeryItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Controllers\\BakeryItemsController.cs",
+              "RelativeDocumentMoniker": "BakeryCoreMVC\\Controllers\\BakeryItemsController.cs",
+              "ToolTip": "C:\\Users\\raana\\source\\repos\\BakeryCoreMVC\\BakeryCoreMVC\\Controllers\\BakeryItemsController.cs",
+              "RelativeToolTip": "BakeryCoreMVC\\Controllers\\BakeryItemsController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:46:24.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
